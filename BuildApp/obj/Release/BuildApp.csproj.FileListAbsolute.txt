@@ -1,0 +1,9 @@
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\SourceCode\BuildApp\bin\Release\BuildApp.exe.config
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\SourceCode\BuildApp\bin\Release\BuildApp.exe
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\SourceCode\BuildApp\bin\Release\BuildApp.pdb
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\SourceCode\BuildApp\obj\Release\BuildApp.csprojResolveAssemblyReference.cache
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\SourceCode\BuildApp\obj\Release\BuildApp.Form1.resources
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\SourceCode\BuildApp\obj\Release\BuildApp.Properties.Resources.resources
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\SourceCode\BuildApp\obj\Release\BuildApp.csproj.GenerateResource.Cache
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\SourceCode\BuildApp\obj\Release\BuildApp.exe
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\SourceCode\BuildApp\obj\Release\BuildApp.pdb
